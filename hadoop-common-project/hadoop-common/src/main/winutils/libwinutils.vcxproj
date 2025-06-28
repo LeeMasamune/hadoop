@@ -40,6 +40,7 @@
     <ProjectGuid>{12131AA7-902E-4a6d-9CE3-043261D22A12}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>winutils</RootNamespace>
+    <PlatformToolset>v143</PlatformToolset>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">

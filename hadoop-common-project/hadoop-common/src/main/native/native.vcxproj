@@ -32,6 +32,7 @@
     <ProjectGuid>{4C0C12D2-3CB0-47F8-BCD0-55BD5732DFA7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>native</RootNamespace>
+    <PlatformToolset>v143</PlatformToolset>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
