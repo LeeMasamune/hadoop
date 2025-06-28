@@ -28,3 +28,9 @@ To build:
 ```bat
 mvn package -e -Pdist -DskipTests -Dtar -Dmaven.javadoc.skip=true
 ```
+
+The output is target\hadoop-common-3.3.4
+
+```bat
+start target\hadoop-common-3.3.4
+```
