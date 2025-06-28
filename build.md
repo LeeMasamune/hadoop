@@ -26,5 +26,5 @@ mvn clean
 To build:
 
 ```bat
-mvn package -e -Pdist,native -DskipTests -Dtar -Dmaven.javadoc.skip=true
+mvn package -e -Pdist -DskipTests -Dtar -Dmaven.javadoc.skip=true
 ```
